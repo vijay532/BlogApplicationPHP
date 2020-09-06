@@ -1,5 +1,5 @@
 # blog-php
-This Application is for blogging where users can blog and other can like, share these blog and admin can give access to the user for publication of the blog and managing the blogging user.
+This Application is for blogging where users can blog and other can like, share these blog and admin has only access to the publication of the blog and management of the blog.
 
 ## Language used
 1. PHP, MySQL, Javascript, HTML, CSS,
